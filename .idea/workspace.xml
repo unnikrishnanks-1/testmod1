@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ceadf18-2a61-42e5-b6a3-b2f7918b4230" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitIgnore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.mp3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
